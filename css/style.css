@@ -752,8 +752,8 @@ footer {
     color: #888;
     font-size: 25px;
     position: absolute;
-    right: 6;
     bottom: 6;
+    right: 6;
     transition: color 0.3s;
 }
 
