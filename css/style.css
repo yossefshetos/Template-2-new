@@ -776,6 +776,11 @@ footer {
     transition: color 0.3s, transform 0.2s;
 }
 
+.footer-desc4 ul li a i:hover {
+    color: #fff;
+    transform: scale(1.05);
+}
+
 .hr-footer {
     color: #888;
     margin: 70px 0 20px 0;
